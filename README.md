@@ -33,7 +33,9 @@ Economist & Data Analyst with degrees in interdisciplinary Economics who support
 * Used Tableau Public for image below:
 
 
-![](https://twobitcliff.github.io/jifsrescue/assets/images/jifsrescuelogo.jpg)
+![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Dashboard%20Tableau.jpg)
+![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Sheet%201%20Tableau.jpg)
+
 
 
 
