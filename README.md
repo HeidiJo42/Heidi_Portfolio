@@ -34,7 +34,7 @@ Economist & Data Analyst with degrees in interdisciplinary Economics who support
 
 
 ![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Dashboard%20Tableau.jpg)
-![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Sheet%201%20Tableau.jpg)
+![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Bayes%20Network%20Italy.JPG)
 
 
 
