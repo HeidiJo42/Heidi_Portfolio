@@ -33,7 +33,8 @@ Economist & Data Analyst with degrees in interdisciplinary Economics who support
 * Used Tableau Public for image below:
 
 
-![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Dashboard%20Tableau.png)
+![](/Images/Dashboard%20Tableau.png)
+
 
 
 
