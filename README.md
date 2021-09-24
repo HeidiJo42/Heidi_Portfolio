@@ -18,7 +18,7 @@ Economist & Data Analyst with degrees in interdisciplinary Economics who support
 
 # [Project 2: Python Correlation Analysis of Movie Data](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Kaggle%20Movie%20Analysis.ipynb)
 
-* Pulled data from [Kaggle](https://www.kaggle.com/danielgrijalvas/movies#) data
+* Pulled data from [Kaggle](https://www.kaggle.com/danielgrijalvas/movies#)
 * Used Juptyer notebook for running Python code
 * Used pandas, numpy, seaborn, and matplotlib 
 * Tested correlation between movie gross earnings vs. budget
@@ -33,7 +33,8 @@ Economist & Data Analyst with degrees in interdisciplinary Economics who support
 * Used Tableau Public for image below:
 
 
-![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Dashboard%20Tableau.png)
+![](https://twobitcliff.github.io/jifsrescue/assets/images/jifsrescuelogo.jpg)
+
 
 
 
