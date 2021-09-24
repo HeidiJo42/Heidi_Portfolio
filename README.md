@@ -1,7 +1,9 @@
-# Heidi_Portfolio
-Examples of Data Analysis
+# [Heidi Seefeld](https://www.linkedin.com/in/heidi-seefeld/)
+
+
 
 Economist & Data Analyst with degrees in interdisciplinary Economics who supports high-level decision-making at the convergence of Business, Sustainability, and Human Behavior. Deep passion for analyzing system processes, data, and people’s actions to pull out the patterns and stories to develop more effective and more humane methods of operating while advancing key organizational objectives.
+
 
 
 # [Project 1: SQL Analysis of Covid-19 Data Pulled 09/22/21](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/SQLQuery_Covid_Data.sql)
