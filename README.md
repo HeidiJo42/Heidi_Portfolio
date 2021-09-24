@@ -30,18 +30,11 @@ Economist & Data Analyst with degrees in interdisciplinary Economics who support
 
 * Pulled data from (https://ourworldindata.org/covid-deaths)
 * Used Microsoft SQL Server Management Studio 18 to separate queries 
-* Used Tableau Public for images below:
+* Used Tableau Public for image below:
 
 
 ![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Dashboard%20Tableau.png)
 
-![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Sheet%204%20Tableau.png)
-
-![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Sheet%203%20Tableau.png)
-
-![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Sheet%202%20Tableau.png)
-
-![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Sheet%201%20Tableau.png)
 
 
 
