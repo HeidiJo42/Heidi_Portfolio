@@ -33,8 +33,7 @@ Economist & Data Analyst with degrees in interdisciplinary Economics who support
 * Used Tableau Public for analysis and images. Please use link above to view.
 
 
-![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Dashboard%20Tableau.jpg)
-![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Bayes%20Network%20Italy.JPG)
+
 
 # [Project 4: Python Analysis of Electronics Sales Data](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Analysis.ipynb)
 * Data source: Year of sales data from an online electronics store
@@ -49,7 +48,9 @@ Economist & Data Analyst with degrees in interdisciplinary Economics who support
   5. What product sold the most? And Why?
 
 ![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Quantity%20Sold%20vs.%20Item%20Price.jpg)
+
 ![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Sales%20per%20Hour%20of%20the%20Day.jpg)
+
 ![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Sales%20per%20Month.jpg)
 
 
