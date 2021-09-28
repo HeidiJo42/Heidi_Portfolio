@@ -30,11 +30,27 @@ Economist & Data Analyst with degrees in interdisciplinary Economics who support
 
 * Pulled data from (https://ourworldindata.org/covid-deaths)
 * Used Microsoft SQL Server Management Studio 18 to separate queries 
-* Used Tableau Public for image below:
+* Used Tableau Public for analysis and images. Please use link above to view.
 
 
 ![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Dashboard%20Tableau.jpg)
 ![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Bayes%20Network%20Italy.JPG)
+
+# [Project 4: Python Analysis of Electronics Sales Data](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Analysis.ipynb)
+* Data source: Year of sales data from an online electronics store
+* Concatenated multiple .csv files into one main file
+* Dropped NaN(s) & other non-conforming lines from dataset
+* Switched columns to numeric, date-time, and string accordingly
+* Set up dummy variables to answer the following questions:
+  1. What was the best sales month?  What was the total sales in that month?
+  2. What US city had the highest number of sales?
+  3. What time of day should we display advertising to maximize sales?
+  4. What products are often sold together?
+  5. What product sold the most? And Why?
+
+![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Quantity%20Sold%20vs.%20Item%20Price.jpg)
+![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Sales%20per%20Hour%20of%20the%20Day.jpg)
+![](https://github.com/HeidiJo42/Heidi_Portfolio/blob/main/Images/Sales%20per%20Month.jpg)
 
 
 
